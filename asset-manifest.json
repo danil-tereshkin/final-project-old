@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4p22-final-project-danil-tereshkin/static/css/main.6efafe39.css",
+    "main.js": "/4p22-final-project-danil-tereshkin/static/js/main.85a15cb3.js",
+    "index.html": "/4p22-final-project-danil-tereshkin/index.html",
+    "main.6efafe39.css.map": "/4p22-final-project-danil-tereshkin/static/css/main.6efafe39.css.map",
+    "main.85a15cb3.js.map": "/4p22-final-project-danil-tereshkin/static/js/main.85a15cb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6efafe39.css",
+    "static/js/main.85a15cb3.js"
+  ]
+}
