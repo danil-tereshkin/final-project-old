@@ -36,6 +36,7 @@ function App() {
         <div className="wrapper">
           {arr.map((object) => (
           <Card
+            key={object.id}
             title={object.title}
             price={object.price}
             description={object.description}
